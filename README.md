@@ -2,7 +2,7 @@
 <h3 align="center">A Junior FullStack Developer from Iran</h3>
 
 <div style="text-align: center;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXQyZjd5ZzdzMGxibWY3MGZpOW51ZXd0OWJ5aHBvMmc2c3RxeTQ3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" style="max-width: 80%; height: auto;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXQyZjd5ZzdzMGxibWY3MGZpOW51ZXd0OWJ5aHBvMmc2c3RxeTQ3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" style="max-width: 40%; height: auto;">
 </div>
 
 
