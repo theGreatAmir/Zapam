@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/amir-zapam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amir-zapam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amirreza poursoltani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirreza poursoltani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amirreza-poursoltani-8a8694249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirreza-poursoltani-8a8694249" height="30" width="40" /></a>
 <a href="https://instagram.com/zapam.programming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zapam.programming" height="30" width="40" /></a>
 </p>
 
