@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is AmirZapam=================================================================================================================================Full Stack web developer------------------------🌐 Junior Frontend Developer | Crafting Engaging Web Experiences | HTML, CSS, JavaScript Enthusiast 🚀 | Eager to Learn and Grow 🌱* 🌍  I'm based in Iran, Kerman* 🖥️  See my portfolio at [Linkedin](http://https://www.linkedin.com/in/amirreza-poursoltani-8a8694249/)* ✉️  You can contact me at [amir.zapam2@gmail.com](mailto:amir.zapam2@gmail.com)* 🧠  I'm learning React-Redux and Next.JS
+Hi 👋 My name is AmirZapam
+Full Stack web developer🌐 Junior Frontend Developer | Crafting Engaging Web Experiences | HTML, CSS, JavaScript Enthusiast 🚀 | Eager to Learn and Grow 🌱* 🌍  I'm based in Iran, Kerman* 🖥️  See my portfolio at [Linkedin](http://https://www.linkedin.com/in/amirreza-poursoltani-8a8694249/)* ✉️  You can contact me at [amir.zapam2@gmail.com](mailto:amir.zapam2@gmail.com)* 🧠  I'm learning React-Redux and Next.JS
 
 <a href="https://www.github.com/Zapam" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Zapam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
