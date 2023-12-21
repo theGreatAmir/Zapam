@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm AmirReza Poursoltani</h1>
 <h3 align="center">A Junior FullStack Developer from Iran</h3>
-<iframe src="https://giphy.com/embed/juua9i2c2fA0AIp2iq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/putti-programming-html-computer-juua9i2c2fA0AIp2iq">via GIPHY</a></p>
+
+<div style="text-align: center;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXQyZjd5ZzdzMGxibWY3MGZpOW51ZXd0OWJ5aHBvMmc2c3RxeTQ3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" style="max-width: 80%; height: auto;">
+</div>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zapam&label=Profile%20views&color=0e75b6&style=flat" alt="zapam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zapam" alt="zapam" /></a> </p>
